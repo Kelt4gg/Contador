@@ -1,4 +1,4 @@
-<h1 style="text-align:center">DIO_Aula JavaScript</h1>
+<h1 style="text-align:center">Contador</h1>
 
 <h3 style="text-align:center">Criando um contador em JavaScript 🕛 </h2>
 
